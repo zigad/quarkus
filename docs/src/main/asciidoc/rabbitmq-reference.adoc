@@ -633,7 +633,7 @@ Type: _long_ | false |
 
 | [.no-hyphens]#*queue.single-active-consumer*# | If set to true, only one consumer can actively consume messages
 
-Type: _boolean_ | false | 'false'
+Type: _boolean_ | false | false
 
 | [.no-hyphens]#*queue.x-queue-type*# | If automatically declare queue, we can choose different types of queue [quorum, classic, stream]
 
